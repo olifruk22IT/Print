@@ -1,0 +1,10 @@
+com\mega\print\controller\ControllerPercentage.class
+com\mega\print\service\ConvertToPDF.class
+com\mega\print\WebMvcConfig\WebMvcConfig.class
+com\mega\print\service\GetPercentageService.class
+com\mega\print\service\UploadService.class
+com\mega\print\model\WCBPercentage.class
+com\mega\print\model\ResponsePDFAndPercentageColor.class
+com\mega\print\model\ReadFileByPixel.class
+com\mega\print\service\PDFConvertToImageService.class
+com\mega\print\StartApplication.class
